@@ -4,9 +4,8 @@
 <h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>A passionate Full-Stack developer from Egypt</h3>
 <p>
   <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471dk2i2hmjx2b0e3rrvba6o6karp901yibgbn9l1n&rid=giphy.gif&ct=g" align="right">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwahassan99&label=Profile%20views&color=0e75b6&style=flat" alt="radwahassan99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radwahassan99" alt="radwahassan99" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=radwahassan99&label=Profile%20views&color=0e75b6&style=flat" alt="radwahassan99" align="left"/> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radwahassan99"   alt="radwahassan99" /></a> 
 </p>
 
 
