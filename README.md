@@ -6,7 +6,7 @@
 <p>
   <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471dk2i2hmjx2b0e3rrvba6o6karp901yibgbn9l1n&rid=giphy.gif&ct=g" align="right" height="200" width="300">
   <img src="https://komarev.com/ghpvc/?username=radwahassan99&label=Profile%20views&color=0e75b6&style=flat" alt="radwahassan99" align="left"/> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radwahassan99"   alt="radwahassan99" align="left" height="200" width="300"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="left"><img src="https://github-profile-trophy.vercel.app/?username=radwahassan99"   alt="radwahassan99" align="left" height="200" width="300"/></a> 
 </p>
   <div>
 
