@@ -11,8 +11,8 @@
   <div>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/radwa-hassan-5a36561b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radwa-hassan-5a36561b7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/radwa_prof_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radwa_prof_9" height="30" width="40" /></a>
 </p>
