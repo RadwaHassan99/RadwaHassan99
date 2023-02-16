@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=radwahassan99&label=Profile%20views&color=0e75b6&style=flat" alt="radwahassan99" align="left"/> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radwahassan99"   alt="radwahassan99" align="left"/></a> 
 </p>
-
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
