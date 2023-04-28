@@ -4,7 +4,7 @@
 <h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>A passionate Full-Stack developer from Egypt</h3>
 <div>
 <p>
-  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471dk2i2hmjx2b0e3rrvba6o6karp901yibgbn9l1n&rid=giphy.gif&ct=g" align="right" height="200" width="400"> 
+  <img src="![me](https://user-images.githubusercontent.com/63107268/235033182-4aebf140-c0d5-4385-a721-1099c0bd580e.gif)" align="right" height="200" width="400"> 
 </p>
 </div>
 
