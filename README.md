@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Radwa Hassan</h1>
 <h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>A passionate Full-Stack developer from Egypt</h3>
-
-![me](https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif)
-
+<div align="center">
+  ![me](https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif)
+<div>
 
 <div>
 <h3 align="left">Connect with me:</h3>
